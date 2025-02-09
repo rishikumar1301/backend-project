@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "pnpm": "^8.15.8"
+  },
+  "name": "rishikumar",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Rishi Kumar",
+  "license": "ISC"
+}
